@@ -1,1 +1,2 @@
 # conectar-banco-de-dados-e-exibir-dados-
+Nesta atividade prática, aprendendemos a estabelecer uma conexão com o banco de dados e a realizar consultas para exibir informações armazenadas nas tabelas. Foram utilizados comandos e funções para conectar o sistema ao banco, executar instruções SQL como SELECT e apresentar os dados de forma organizada. A prática permitiu entender como acessar, consultar e visualizar registros de maneira segura e eficiente.
